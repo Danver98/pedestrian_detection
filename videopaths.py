@@ -1,0 +1,2 @@
+video_paths = ["D:\Programming\ImageProcessing\АОМТ-2\people1.mp4","D:\Programming\ImageProcessing\АОМТ-2\street0.mp4",
+"D:\Programming\ImageProcessing\АОМТ-2\street1.mp4","D:\Programming\ImageProcessing\АОМТ-2\street2.mp4"]

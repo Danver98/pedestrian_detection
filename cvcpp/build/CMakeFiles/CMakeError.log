@@ -1,0 +1,28 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: d:/Programming/ImageProcessing/АОМТ-2/cvcpp/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/PROGRA~1/gcc/bin/make.exe" "cmTC_b8f58/fast"
+C:/PROGRA~1/gcc/bin/make.exe -f CMakeFiles/cmTC_b8f58.dir/build.make CMakeFiles/cmTC_b8f58.dir/build
+make.exe[1]: Entering directory 'd:/Programming/ImageProcessing/└╬╠╥-2/cvcpp/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_b8f58.dir/testCCompiler.c.obj
+cd D:/Programming/ImageProcessing/╨Р╨Ю╨Ь╨в-2/cvcpp/build/CMakeFiles/CMakeTmp && "C:/Program Files/gcc/bin/x86_64-w64-mingw32-gcc.exe"    -o CMakeFiles/cmTC_b8f58.dir/testCCompiler.c.obj   -c D:/Programming/ImageProcessing/╨Р╨Ю╨Ь╨в-2/cvcpp/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Системе не удается найти указанный путь.
+make.exe[1]: *** [CMakeFiles/cmTC_b8f58.dir/build.make:66: CMakeFiles/cmTC_b8f58.dir/testCCompiler.c.obj] Error 1
+make.exe[1]: Leaving directory 'd:/Programming/ImageProcessing/└╬╠╥-2/cvcpp/build/CMakeFiles/CMakeTmp'
+make.exe: *** [makefile:126: cmTC_b8f58/fast] Error 2
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: d:/Programming/ImageProcessing/АОМТ-2/cvcpp/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/PROGRA~1/gcc/bin/make.exe" "cmTC_4fd78/fast"
+C:/PROGRA~1/gcc/bin/make.exe -f CMakeFiles/cmTC_4fd78.dir/build.make CMakeFiles/cmTC_4fd78.dir/build
+make.exe[1]: Entering directory 'd:/Programming/ImageProcessing/└╬╠╥-2/cvcpp/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_4fd78.dir/testCCompiler.c.obj
+cd D:/Programming/ImageProcessing/╨Р╨Ю╨Ь╨в-2/cvcpp/build/CMakeFiles/CMakeTmp && "C:/Program Files/gcc/bin/x86_64-w64-mingw32-gcc.exe"    -o CMakeFiles/cmTC_4fd78.dir/testCCompiler.c.obj   -c D:/Programming/ImageProcessing/╨Р╨Ю╨Ь╨в-2/cvcpp/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Системе не удается найти указанный путь.
+make.exe[1]: *** [CMakeFiles/cmTC_4fd78.dir/build.make:66: CMakeFiles/cmTC_4fd78.dir/testCCompiler.c.obj] Error 1
+make.exe[1]: Leaving directory 'd:/Programming/ImageProcessing/└╬╠╥-2/cvcpp/build/CMakeFiles/CMakeTmp'
+make.exe: *** [makefile:126: cmTC_4fd78/fast] Error 2
+
+
